@@ -1,0 +1,27 @@
+/* ---------------------- BACK ------------------------------ */
+.container {
+    padding: 20px;
+}
+
+.button {
+    padding: 10px 20px;
+    background-color: #4848f5;
+    border: none;
+    color: #fff;
+    font-size: 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    box-shadow: 5px 5px 1px #bcbcbc;
+}
+
+.button:hover {
+    background-color: #222280;
+}
+
+/* ---------------------- BACK ------------------------------ */
+
+.errorContainer {
+    margin-top: 10px;
+    font-size: 12px;
+    color: red;
+}
